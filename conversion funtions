@@ -1,0 +1,7 @@
+The CONVERT() function converts a value (of any type) into a specified datatype
+
+SELECT CONVERT(int, 25.65);
+
+SELECT CONVERT(varchar, 25.65);
+
+SELECT CONVERT(datetime, '2017-08-25');
